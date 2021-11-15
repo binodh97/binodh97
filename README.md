@@ -20,8 +20,8 @@
 
 <a href="https://www.linkedin.com/in/binodh-madusanka-646024203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16177340/binodh-madhusanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yashitha" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_b_i_n_o_t_h_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_b_i_n_o_t_h_" height="30" width="40" /></a>
-<a href="https://fb.com/Binoth Madusanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Yasiru Dahanayaka" height="30" width="40" /></a>
+<a href="https://www.instagram.com/__b_i_n_o_t_h__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_b_i_n_o_t_h_" height="30" width="40" /></a>
+<a href="https://www.facebook.com/binoth.madusanka.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Yasiru Dahanayaka" height="30" width="40" /></a>
 
 </p>
 
