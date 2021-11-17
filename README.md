@@ -1,5 +1,5 @@
 <p align="Center">
-<img src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Binodh+Madhusanka;IJSE-+%F0%9F%91%8B%2C+Institute+of+Software+Engineering)](https://git.io/typing-svg)">
+<img src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Binodh+Madhusanka;IJSE-+Institute+of+Software+Engineering)](https://git.io/typing-svg)">
 </p>
 
 <p align="Right">
