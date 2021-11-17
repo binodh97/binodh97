@@ -25,7 +25,7 @@
 
 </p>
 
-- 😄 Pronouns: he/him/his/bino
+- 😄 Pronouns: Bino/Menda
 
 - ⚡ Fun fact: I love to leave my phone unanswered and then text them to know why they had called.
 
