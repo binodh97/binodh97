@@ -1,5 +1,5 @@
 <p align="Center">
-<img src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Binodh+Madhusanka;IJSE-+Institute+of+Software+Engineering)](https://git.io/typing-svg)">
+<img src="https://readme-typing-svg.herokuapp.com? size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Binodh+Madhusanka;IJSE-+Institute+of+Software+Engineering)](https://git.io/typing-svg)">
 </p>
 
 <p align="Right">
@@ -10,8 +10,8 @@
 </p>
 
 
-- 🔭 I’m currently working on Freelance Thanks for dropping by! I like to Code and Learn to build the next generation applications.
-- 🌱 I’m currently learning Computer Science
+- 🔭 I am a Associate Software Engineer and I like to Code and Learn to build the next generation applications.All coding projects are build from the ground up and for my learnings.I wanna to solve real-life problems with code.  
+- 🌱 I’m currently learning Software Engineeering at IJSE.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Coding
 - 💬 Ask me about anything : +94 76 73 54 533 
