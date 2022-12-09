@@ -1,11 +1,10 @@
 <p align="Center">
-<img src="https://readme-typing-svg.herokuapp.com? size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Binodh+Madhusanka;IJSE-+Institute+of+Software+Engineering)](https://git.io/typing-svg)">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&widthfont=Fira+Code&pause=1000&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Binodh+Madhusanka;I+am+a+Software+Engineer;Web+Developer" alt="Typing SVG" /></a>
 </p>
+
 
 <p align="Right">
 <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379">
-<img src="https://badges.pufler.dev/visits/M4cs/M4cs">
-<img src="https://badges.pufler.dev/years/M4cs">
 <img alt="Profile followers" src="https://img.shields.io/github/followers/binodh97">
 </p>
 
